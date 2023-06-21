@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pactos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "gamem5",
       "title": "GameM5",
@@ -57,7 +57,7 @@
     "versionPublish": "5.7.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
-    "mbrsiteDomain": "bdeulgn3dr",
+    "mbrsiteDomain": "o6cjru1mdq",
     "usedWebp": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
@@ -69,7 +69,7 @@
     "robotsText": "User-agent: Mediapartners-Google\nDisallow:\n\nUser-agent: *\nDisallow: /search\nAllow: /\n",
     "cssOptimize": true,
     "lazyLoad": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
