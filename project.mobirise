@@ -57,7 +57,7 @@
     "versionPublish": "5.7.4",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "zdjvqnzxsb",
+    "mbrsiteDomain": "trkfnimbs3",
     "usedWebp": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
@@ -67,8 +67,8 @@
     "gdpr": false,
     "site_lang": "es",
     "robotsText": "User-agent: Mediapartners-Google\nDisallow:\n\nUser-agent: *\nDisallow: /search\nAllow: /\n",
-    "cssOptimize": false,
-    "lazyLoad": false,
+    "cssOptimize": true,
+    "lazyLoad": true,
     "publishChangesOnly": true
   },
   "pages": {
